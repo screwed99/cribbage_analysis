@@ -1,0 +1,3 @@
+NULL = Not Applicable (e.g. no Crib, game was stopped before one could play)
+First Game was not counted (warm up and also hadn’t fully figured out score recording system)
+Lead plays first in both phases of the game
